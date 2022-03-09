@@ -1,1 +1,1 @@
-# projecteuler in py3
+# projecteuler solutions
